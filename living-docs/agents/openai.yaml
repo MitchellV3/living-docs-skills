@@ -1,0 +1,4 @@
+interface:
+  display_name: "Living Docs"
+  short_description: "Autonomously update AGENTS.md and README.md after significant changes"
+  default_prompt: "Update the project documentation to reflect recent changes"
