@@ -1,0 +1,4 @@
+interface:
+  display_name: "Changelog Gen"
+  short_description: "Autonomously maintain CHANGELOG.md from commits and PRs"
+  default_prompt: "Update the changelog with recent changes"
