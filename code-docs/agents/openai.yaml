@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Docs"
+  short_description: "Autonomously add jsdoc and inline documentation to code"
+  default_prompt: "Add documentation to the new or modified code"
